@@ -1,0 +1,5 @@
+Q)What happens when you initialize a repository? Why do you need to do it?
+A)A new repository gets created, we need a git repository to see the commits for all our files.
+
+Q)How is the staging area different from the working directory and the repository? What value do you think it offers?
+A)Staging area is different as it is an intermediate area between the working directory and the repository. It is important as it bundles its contents into a single commit and adds them to the repository.
